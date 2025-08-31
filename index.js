@@ -1,1 +1,1 @@
-console.log('Willkommen zum deutschen Versionierungssystem');
+console.log('Welcome to the German version control system');
