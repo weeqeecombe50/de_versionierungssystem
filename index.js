@@ -1,1 +1,1 @@
-console.log('Willkommen zum DE Versionierungssystem');
+console.log('Willkommen zum deutschen Versionierungssystem');
