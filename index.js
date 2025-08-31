@@ -1,1 +1,1 @@
-console.log('Welcome to the English version control system');
+console.log('Welcome to the English version of the control system');
